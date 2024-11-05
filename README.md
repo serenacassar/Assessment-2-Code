@@ -17,6 +17,10 @@ Features
 - Collision Penalties: Avoid cherries, as they take away a life when touched. 
 - Score Tracker: The game tracks and displays the player’s score in real-time.
 
+Screenshot
+<img width="1439" alt="Screenshot 2024-11-06 at 10 00 23 AM" src="https://github.com/user-attachments/assets/a5d26cc4-8a08-4d27-8073-b2be257cd446">
+
+
 Usage
 To play the game, simply:
 
