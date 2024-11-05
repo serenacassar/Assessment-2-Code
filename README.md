@@ -1,6 +1,5 @@
-# Assessment-2-Code
-Apple Dash
-A fun and interactive 2D platform game where players dash through obstacles to collect apples, coded in Python using MakeCode Arcade.
+# Apple Dash
+Apple Dash is a fun and interactive 2D platform game where players dash through obstacles to collect apples, coded in Python using MakeCode Arcade.
 
 This project aims to:
 
