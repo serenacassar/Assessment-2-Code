@@ -18,6 +18,14 @@ Features
 - Collision Penalties: Avoid cherries, as they take away a life when touched. 
 - Score Tracker: The game tracks and displays the player’s score in real-time.
 
+Usage
+To play the game, simply:
+
+Open the game in MakeCode Arcade.
+- Press the "Play" button.
+- Use the arrow keys on either your laptop or on the game to move your character 
+- Collect as many apples as you can within the 30 seconds without touching any cherries!
+
 Project Status
 Project is: in progress
 
